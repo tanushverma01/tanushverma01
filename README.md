@@ -1,61 +1,51 @@
-# 👋 Hey there, I’m Tanush Verma  
+# 👋 Hi, I'm Tanush Verma  
 
-🚀 **Java Developer | System Design Learner | Aspiring Open Source Contributor**
-
----
-
-### 🧠 About Me  
-- 💻 Currently mastering **Java for DSA** and backend foundations  
-- 🧩 Deep diving into **System Design**, **Advanced Backend**, and **DevOps** concepts  
-- 🌐 Passionate about **scalable architectures**, **distributed systems**, and **real-world engineering problems**  
-- 🧱 Building a roadmap toward becoming a **System Designer & Backend Engineer**  
-- 🧠 I love solving challenges that make systems faster, more resilient, and efficient  
-- 🎯 Goal: Contribute to **open source projects** and eventually design large-scale distributed systems  
+💡 **Java Developer | System Design Learner | Open Source Contributor**
 
 ---
 
-### ⚙️ Currently Learning  
-**🔹 Advanced Backend & System Design**
-- Message Queues, Pub/Sub, Load Balancers, Redis, Kafka  
-- Sharding, Replication, Rate Limiting, CAP Theorem  
-- Polling, WebSockets, WebRTC, and more  
-
-**🔹 Advanced DevOps**
-- Docker, Kubernetes, CI/CD, Monitoring (Grafana, Prometheus)  
-- AWS, Serverless Architectures, and Container Orchestration  
-
-**🔹 Backend Development**
-- Node.js, Express.js, Databases (MongoDB, PostgreSQL)  
-- Authentication, APIs, Serverless Backends  
+### 🧭 About Me
+- 🔥 Focused on mastering **Data Structures, Algorithms, and System Design**  
+- ☕ Passionate about writing clean, efficient, and scalable code in **Java**  
+- 🧠 Exploring **how large-scale backend systems work under the hood**  
+- 🌱 Actively contributing to **open source** and building personal projects  
+- ⚙️ Goal: To become a **System Designer & Backend Architect**
 
 ---
 
-### 🧩 My Tech Stack  
-💻 **Languages:** Java, JavaScript, TypeScript  
-🛠️ **Backend:** Node.js, Express.js, Redis, Kafka  
-⚙️ **DevOps:** Docker, Kubernetes, CI/CD, Grafana, Prometheus  
-🗃️ **Databases:** MongoDB, PostgreSQL  
-☁️ **Cloud & Tools:** AWS, Git, Linux, Nginx  
+### 🛠️ Tech Stack
+**Languages:** Java  
+**Concepts:** DSA, OOP, Design Patterns, System Design  
+**Tools & Platforms:** Git, GitHub, Linux, Docker (basics)  
+**Areas of Interest:** Backend Systems, Distributed Systems, Open Source  
 
 ---
 
-### 🛠️ Future Goals  
-- 🎯 Become a **System Design expert** capable of handling large-scale distributed architectures  
-- 💡 Contribute to **Open Source** initiatives and collaborate with global developers  
-- 🔭 Work on **high-impact backend projects** and publish technical blogs on design patterns  
+### 🌱 Currently Learning
+- Advanced **Backend & System Design** topics  
+  - Communication protocols, Load Balancers, Rate Limiting  
+  - Caching (Redis), Message Queues (Kafka), and CAP Theorem  
+  - Horizontal & Vertical Scaling, Replication, Polling, WebSockets  
+- **DevOps Fundamentals**
+  - CI/CD, Monitoring, Containerization, and Cloud Basics  
 
 ---
 
-### 📫 Let’s Connect  
-- 💼 [LinkedIn](https://www.linkedin.com/in/tanush-verma-616007326/)  
-- 🧠 [LeetCode](https://leetcode.com/u/tanushverma0510/)  
-- 🧑‍💻 [GitHub](https://github.com/tanushverma01)  
+### 🧑‍💻 Open Source & Projects
+- 🌍 Exploring open source projects focused on **backend and systems**  
+- 🛠️ Building small-scale prototypes to simulate real-world system architectures  
 
 ---
 
-### 🧠 Quote I live by  
-> “Code is easy. Systems are hard. But systems are what change the world.”  
+### 📊 GitHub Stats
+![Tanush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanushverma01&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanushverma01&layout=compact&theme=radical)
 
 ---
 
-⭐ **If you like my journey or projects, consider giving them a star!**  
+### ⚡ Fun Fact
+> “I don’t just learn Java — I learn how systems *think*.”
+
+---
+
+📫 **Reach me at:** [tanushverma05@gmail.com](mailto:tanushverma05@gmail.com)
