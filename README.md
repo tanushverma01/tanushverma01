@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Tanush Thombare  
+# 👋 Hey there, I’m Tanush Verma  
 
 🚀 **Java Developer | System Design Learner | Aspiring Open Source Contributor**
 
