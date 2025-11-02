@@ -47,9 +47,9 @@
 ---
 
 ### 📫 Let’s Connect  
-- 💼 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/tanush-verma-616007326/))  
-- 🧠 [LeetCode]([https://leetcode.com/your-handle](https://leetcode.com/u/tanushverma0510/))  
-- 🧑‍💻 [GitHub](https://github.com/your-username)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tanush-verma-616007326/)  
+- 🧠 [LeetCode](https://leetcode.com/u/tanushverma0510/)  
+- 🧑‍💻 [GitHub](https://github.com/tanushverma01)  
 
 ---
 
